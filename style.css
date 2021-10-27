@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right top, #00f4a9, #00d4c9, #00b0d7, #008acc, #0062aa, #3552a4, #524098, #682785, #a0007f, #d00067, #f10042, #ff0000);
+    color: peachpuff;
+}
+
+#footer{
+    bottom: 10;
+    position: fixed;
+    text-align: center;
+    color: purple;
+    width: 100%;
+    background-image: linear-gradient(to right top, #006b5b, #348564, #5d9f6b, #89b871, #b9d078, #d5c871, #ecbe73, #ffb57e, #f79188, #d9779a, #a569a7, #5d62a6);
+}
